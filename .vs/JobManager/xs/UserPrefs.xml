@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{92482CAA-FDF6-4252-897B-5A0CC3D04E32}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JobManager" expanded="True" selected="True">
+            <Node name="JobManager" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_2_XL_API_30" />
+  <MonoDevelop.Ide.ItemProperties.JobManager.Android PreferredExecutionTarget="Android.Pixel_2_XL_API_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
