@@ -1,16 +1,27 @@
 ﻿<Properties StartupConfiguration="{92482CAA-FDF6-4252-897B-5A0CC3D04E32}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_2_XL_API_30" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="JobManager/Views/JobListPage.xaml">
+    <Files>
+      <File FileName="JobManager/Views/JobDetailPage.xaml" Line="48" Column="41" />
+      <File FileName="JobManager/Views/JobListPage.xaml" Line="23" Column="15" />
+      <File FileName="JobManager/Views/WelcomePage.xaml" Line="21" Column="83" />
+      <File FileName="JobManager/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="JobManager/ViewModels/WelcomeViewModel.cs" Line="1" Column="1" />
+      <File FileName="JobManager/Views/MapPage.xaml" Line="18" Column="21" />
+      <File FileName="JobManager/obj/Debug/netstandard2.1/App.xaml.g.cs" Line="21" Column="1" />
+      <File FileName="JobManager/Views/JobListPage.xaml.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="JobManager" expanded="True" selected="True">
+          <Node name="JobManager" expanded="True">
             <Node name="JobManager" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="JobListPage.xaml" selected="True" />
               </Node>
-              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -20,11 +31,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_2_XL_API_30" />
-  <MonoDevelop.Ide.ItemProperties.JobManager.Android PreferredExecutionTarget="Android.Pixel_2_XL_API_30" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
+  <MonoDevelop.Ide.ItemProperties.JobManager.Android PreferredExecutionTarget="Android.Pixel_2_XL_API_30" />
 </Properties>

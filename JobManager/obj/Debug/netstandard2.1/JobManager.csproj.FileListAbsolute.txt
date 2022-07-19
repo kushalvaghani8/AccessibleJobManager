@@ -16,4 +16,3 @@
 /Users/kushalvaghani/Projects/New JobManager/AccessibleJobManager/JobManager/obj/Debug/netstandard2.1/JobManager.dll
 /Users/kushalvaghani/Projects/New JobManager/AccessibleJobManager/JobManager/obj/Debug/netstandard2.1/ref/JobManager.dll
 /Users/kushalvaghani/Projects/New JobManager/AccessibleJobManager/JobManager/obj/Debug/netstandard2.1/JobManager.pdb
-/Users/kushalvaghani/Projects/New JobManager/AccessibleJobManager/JobManager/obj/Debug/netstandard2.1/JobManager.csproj.AssemblyReference.cache
